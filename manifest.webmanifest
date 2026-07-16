@@ -1,0 +1,16 @@
+{
+  "name": "FrameOnce",
+  "short_name": "FrameOnce",
+  "description": "Record once. Post everywhere.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#051425",
+  "theme_color": "#051425",
+  "icons": [
+    {
+      "src": "assets/app-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
