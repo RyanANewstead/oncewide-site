@@ -1,6 +1,6 @@
-# FrameOnce website
+# OnceWide website
 
-Public launch website for FrameOnce, including:
+Public launch website for OnceWide, including:
 
 - Product landing page
 - Launch-list email call to action
@@ -16,9 +16,9 @@ Publish from the `main` branch and repository root.
 
 Expected URLs:
 
-- `https://ryananewstead.github.io/frameonce-site/`
-- `https://ryananewstead.github.io/frameonce-site/privacy/`
-- `https://ryananewstead.github.io/frameonce-site/support/`
+- `https://ryananewstead.github.io/oncewide-site/`
+- `https://ryananewstead.github.io/oncewide-site/privacy/`
+- `https://ryananewstead.github.io/oncewide-site/support/`
 
 ## Local preview
 
